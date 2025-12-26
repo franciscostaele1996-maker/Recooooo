@@ -242,6 +242,9 @@ Segmentações (Slicers)
 •	Análise Região
 
 
+
+
+
  Informações Extras:
  
 •	Botões de Paginação 
