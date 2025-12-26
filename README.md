@@ -26,7 +26,7 @@ Como aumentar a receita e a rentabilidade das vendas identificando os produtos, 
 
 	Quais produtos geram mais receita?
 	Quem São Os Top Vendedores Em Faturamento, Margem De Lucro E Ticket Médio?
- Qual região vende mais e qual tem menor lucro?
+    Qual região vende mais e qual tem menor lucro?
 	Em que meses as vendas aumentam ou diminuem?
 	Qual vendedor tem melhor conversão ou maior lucro?
 	Quais produtos têm melhor margem de lucro?
