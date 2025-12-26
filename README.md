@@ -42,11 +42,11 @@ Análise de dados não se começa no Power BI, mais sim no nosso Banco.
 SQL é a habilidade que dá autonomia para o analista gerar N Insights, onde Planilha é cálculo e Banco de dados é informação.
 Para a Estrutura da nossa Query, usamos os seguintes Comandos: 
 
-Comando de agregações
-CTE com a clausula With
-Funções de Janelas 
-Joins
-Etc...
+	Comando de agregações
+	CTE com a clausula With
+	Funções de Janelas 
+	Joins
+	Etc...
 
 
 
