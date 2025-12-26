@@ -135,7 +135,7 @@ Modelo em estrela (Star Schema):
 
 		 5. DAX: Medidas, indicadores e KPIs.
     
-5.1 Métricas 
+		5.1 Métricas 
 
 •	Total vendido (Medir tamanho do negócio)
 
@@ -145,7 +145,7 @@ Modelo em estrela (Star Schema):
 
 •	Quantidade vendida
 
-5.2  Indicadores 
+		5.2  Indicadores 
 
 
 •	Ticket Médio = Receita ÷ Nº pedidos (Monitorar valor de vendas por transação)
@@ -154,7 +154,8 @@ Modelo em estrela (Star Schema):
 
 •	Crescimento Anual (%) :Objetivo é avaliar o crescimento ano a ano (YOY) 
 
-5.3  KPIs Estruturados com os Seguintes Gráficos e Tabelas 
+
+		5.3  KPIs Estruturados com os Seguintes Gráficos e Tabelas 
 
 •	Receita por mês e ano 
 
@@ -230,7 +231,7 @@ Tabela dinâmica: Usamos porque resumo grande volume de dados que permite agrupa
 			7. Interatividade: Segmentadores, Filtros, Drill Down e Bookmarks
 
 
-Segmentações (Slicers)
+		Segmentações (Slicers)
 
 
 •	Análise Ano 
@@ -245,7 +246,7 @@ Segmentações (Slicers)
 
 
 
- Informações Extras:
+		 Informações Extras:
  
 •	Botões de Paginação 
 
