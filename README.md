@@ -34,3 +34,7 @@ CTE com a clausula With
 Funções de Janelas 
 Joins
 Etc...
+
+
+<img width="1145" height="829" alt="image" src="https://github.com/user-attachments/assets/d93c800f-6b09-4351-9faf-f909321f5d7e" />
+
