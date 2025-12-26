@@ -1,4 +1,4 @@
-"Traduz sempre para o Inglês, isso evita que as Ecritas não aparecerem fora do contexto"
+"Traduz sempre para o Inglês, isso evita que as Escritas não aparecem fora do contexto"
 
 
 Projeto de Portfólio: Dashboards de Vendas 2025 – Visão Geral da Performance
